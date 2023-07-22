@@ -1,2 +1,5 @@
-package zoo;public class Viviparous {
+package zoo;
+
+public interface Viviparous {
+
 }

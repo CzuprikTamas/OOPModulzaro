@@ -1,8 +1,8 @@
 package bank;
 
-public class NotEnoughException extends Exception{
+public class NotEnoughMoneyException extends Exception{
 
-    public NotEnoughException(String message) {
+    public NotEnoughMoneyException(String message) {
         super(message);
     }
 }

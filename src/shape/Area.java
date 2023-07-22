@@ -1,2 +1,5 @@
-package shape;public class Area {
+package shape;
+
+public interface Area {
+    double area();
 }

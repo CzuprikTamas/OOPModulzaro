@@ -1,2 +1,5 @@
-package shape;public interface Perimeter {
+package shape;
+
+public interface Perimeter {
+    double perimeter();
 }
